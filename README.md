@@ -21,6 +21,17 @@
   </a>
 </p>
 
+## Languages used:
+<p align="center">
+  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png"/> 
+  <img src="https://img.icons8.com/color/48/c-sharp-logo.png"/>
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
+  <img src="https://img.icons8.com/color/48/python--v1.png"/>
+  <img src="https://img.icons8.com/color/48/html-5--v1.png"/>
+  <img src="https://img.icons8.com/color/48/css3.png"/>
+  
+</p>
+
 ## Skills:
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="48" height="48"/> 
