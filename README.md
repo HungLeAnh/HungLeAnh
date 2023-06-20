@@ -1,7 +1,6 @@
-<img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
 <h1 align="center">Hi 👋, I'm Le Anh Hung</h1>
 <p align="center">
-  <h3 align="center">A passionate game developer from Vietnam 🇻🇳 </h3>
+  <h3 align="center">A passionate game developer from Vietnam </h3>
 </p>
 <br />
 
@@ -40,8 +39,8 @@
 <table style="width:100%;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hungleanh&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="tiennhm" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=hungleanh&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="tiennhm" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HungLeAnh&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="hungleanh" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=HungLeAnh&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="hungleanh" width="100%"/>
     </td>
     <td>
       <p align="center"> 
@@ -52,8 +51,5 @@
 </table>
 
 # Certificates:
-
-<img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
-
-- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Introduction to JavaScript](https://www.coursera.org/account/accomplishments/certificate/XFNU3UXCK5DG)
-- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Audio Classification with TensorFlow](https://www.coursera.org/account/accomplishments/certificate/MBSDFCKQ9X8E)
+- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/QMM7D2ND6377)
+- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Fundamentals of Digital Image and Video Processing](https://www.coursera.org/account/accomplishments/certificate/MPKK773NFCR4)
